@@ -4,7 +4,7 @@ just a simple todo app with sveltekit.
 I'm trying to builld this app with as little third party dependencies as possible.
 (I will be adding my bby Tailwind CSS)
 
-## Developing
+## Installation
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* cool grid idea for another app maybe */
+/* also when tailwind suports grid columns names */
+/* .custom-grid {
+    grid-template-columns: 100px [breakout-start] 100px [content-start] 1fr [content-end] 100px [breakout-end] 100px;
+}
+.content-grid {
+    grid-column: content;
+}
+.content-breakout {
+    grid-column: breakout;
+} */
